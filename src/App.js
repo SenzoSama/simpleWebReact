@@ -6,7 +6,7 @@ import About from "./components/About";
 import Shop from "./components/Shop";
 import ItemsDetail from "./components/ItemsDetail";
 import Home from "./components/Home";
-import Material from "./components/Materail";
+import Material from "./components/Material";
 
   // const APP_ID="c5287217";
   // const APP_KEY="b15058b664fc4b7170454e87079675df";
