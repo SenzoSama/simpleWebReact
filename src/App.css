@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background:rgb(48, 12, 88);
+  color: white;
+}
+.nav-links
+{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.link-style
+{
+  text-decoration: none;
+  color: white;
+}
+
+.link-style:hover
+{
+  text-decoration: dashed;
+  color: rgb(255, 0, 0);
+}
+
+.link-shop
+{
+  text-decoration: none;
+}
+
+.link-shop:hover
+{
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+}
