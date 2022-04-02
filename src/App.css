@@ -40,3 +40,11 @@ nav{
   text-decoration: none;
   color: rgb(255, 0, 0);
 }
+.padd
+{
+  padding: 5px;
+}
+.marg
+{
+  margin: 5px;
+}
